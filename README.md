@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **manoharjha26/manoharjha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Manohar Jha</h1>
+<h3 align="center">Full Stack Web developer</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manoharjha26&label=Profile%20views&color=0e75b6&style=flat" alt="manoharjha26" /> </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/manohar-jha-768b6226a)**
+
+<div align="center">
+
+![Manohar GitHub stats](https://github-readme-stats.vercel.app/api?username=manoharjha26&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharjha26&hide=javascript,html&theme=radical)](https://github.com/manoharjha26/github-readme-stats&theme=radical)
+
+  </div>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharjha26&theme=radical" alt="manoharjha26" /></p>
