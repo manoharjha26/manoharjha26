@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Computer Science Student at Chandigarh university.
 - 👨‍💻 &nbsp; Front-end Web developer.
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/).
+- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/).
 
 <h3>🛠 Tech Stack</h3>
 
