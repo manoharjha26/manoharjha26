@@ -1,9 +1,9 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=manoharjha26&color=1191BF)
 
 ### Hi there 👋
-I'm Manohar.
+This is Manohar.
 <!--
-**manoharjha26/manoharjha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; C++ | Python | DSA 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
-- 🛢 &nbsp; MySQL | mongodb | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🛢 &nbsp; MySQL | mongodb | Git
+- 🔧 &nbsp; PyCharm | Visual Studio Code
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharjha26&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/maboharjha26/github-readme-stats)
