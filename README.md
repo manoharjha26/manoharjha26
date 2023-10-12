@@ -6,7 +6,7 @@ This is Manohar.
 
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin: Manohar](https://img.shields.io/badge/-manoharjha26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
-
+[![GitHub: Manohar](https://img.shields.io/github/followers/manoharjha26?label=follow&style=social)](https://github.com/manoharjha26)
 <!--
 
 
