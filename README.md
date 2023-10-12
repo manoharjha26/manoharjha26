@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 This is Manohar.
+
+
+<!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
+[![Linkedin: Manohar](https://img.shields.io/badge/-manoharjha26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
+
 <!--
 
 
@@ -18,18 +23,18 @@ Here are some ideas to get you started:
 -->
 
 <h2></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Computer Science Student at Chandigarh university.
+- 🎓 &nbsp; MCA Student at Chandigarh university.
 - 👨‍💻 &nbsp; Front-end Web developer.
-- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/).
-
+<!--- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/), [Instagram](https://www.instagram.com/manohar_26_/).
+-->
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | DSA 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Nodejs | Expressjs
 - 🛢 &nbsp; MySQL | mongodb | Git
 - 🔧 &nbsp; PyCharm | Visual Studio Code
 </br>
