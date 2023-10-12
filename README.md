@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h2></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
