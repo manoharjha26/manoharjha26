@@ -6,7 +6,8 @@ This is Manohar.
 
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin: Manohar](https://img.shields.io/badge/-manoharjha26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
-[![Instagram: Manohar](https://img.shields.io/badge/-manohar__26-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar_26_/)
+[![Instagram: Manohar](https://img.shields.io/badge/-manohar__26-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
+[![X: Manohar](https://img.shields.io/badge/-manohar__26-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
 [![GitHub: Manohar](https://img.shields.io/github/followers/manoharjha26?label=follow&style=social)](https://github.com/manoharjha26)
 <!--
 
