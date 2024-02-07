@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | DSA 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Nodejs | Expressjs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Reactjs | Nodejs | Expressjs
 - 🛢 &nbsp; MySQL | mongodb | Git
 - 🔧 &nbsp; Visual Studio Code
 </br>
