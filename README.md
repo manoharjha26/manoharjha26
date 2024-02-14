@@ -3,13 +3,13 @@
 ### Hi there 👋
 This is Manohar.
 
-
+<!--
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
 [![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
 [![X: Manohar](https://img.shields.io/badge/-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08/)](https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08)
 [![GitHub](https://img.shields.io/github/followers/manoharjha26?label=follow&style=social)](https://github.com/manoharjha26)
 
-
+-->
 <!--
 
 Here are some ideas to get you started:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; MCA Student at Chandigarh university.
 - 👨‍💻 &nbsp; Frontend developer.
-- 📫 Reach me on: [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
+- 📫 &nbsp; [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
 [![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
 [![X: Manohar](https://img.shields.io/badge/-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08/)](https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08)
 [![GitHub](https://img.shields.io/github/followers/manoharjha26?label=follow&style=social)](https://github.com/manoharjha26)
