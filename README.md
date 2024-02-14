@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 -->
 
 <h2></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="300"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="300"/> -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; MCA Student at Chandigarh university.
-- 👨‍💻 &nbsp; ReactJs developer.
+- 👨‍💻 &nbsp; Frontend developer.
 <!--- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/), [Instagram](https://www.instagram.com/manohar_26_/).
--->
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | DSA 
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; Visual Studio Code
 </br>
 
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharjha26&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/maboharjha26/github-readme-stats)
 
 <!---
