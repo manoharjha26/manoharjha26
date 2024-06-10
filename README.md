@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; MCA Student at Chandigarh university.
 - 👨‍💻 &nbsp; Frontend developer.
 - 📫 &nbsp; [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
-[![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
+[![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar_dev_/)](https://www.instagram.com/manohar_dev_/)
 [![X: Manohar](https://img.shields.io/badge/-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08/)](https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08)
 
 <!--- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/), [Instagram](https://www.instagram.com/manohar_26_/).
