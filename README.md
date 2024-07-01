@@ -29,12 +29,12 @@ This is Manohar.
 </p>
 
 
-
+<!--
 # Analytics ⚙️
 
 <p align="center">
         <img  alt="manoharjha26's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/manoharjha26?cardType=github&preferLogin=false" /> 
-</p>
+</p>-->>
 
 # Languages & Tools 🛠
 
