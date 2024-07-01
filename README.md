@@ -4,6 +4,12 @@
 This is Manohar.
 <h3> 👨🏻‍💻 About Me </h3>
 
+- :school: I'm [Manohar Jha](https://manoharjha26.github.io/), have pursued MCA from <a href="https://cucet.cuchd.in/">chandigarh university</a>
+- 🔭 I’m currently working on  **Frontend Development**
+- 🌱 I’m currently Working in MHF Solution,**Reactjs**
+- 💬 Ask me about anything
+- 🌐 Visit my [porfolio website](https://portfolio-manohar.vercel.app/)
+
 
 # Let's connect? 🤝
 
