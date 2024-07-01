@@ -2,58 +2,47 @@
 
 ### Hi there 👋
 This is Manohar.
-
-<!--
-[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
-[![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar__26/)](https://www.instagram.com/manohar__26/)
-[![X: Manohar](https://img.shields.io/badge/-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08/)](https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08)
-[![GitHub](https://img.shields.io/github/followers/manoharjha26?label=follow&style=social)](https://github.com/manoharjha26)
-
--->
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2></h2>
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" height="300"/> -->
-
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; MCA Student at Chandigarh university.
-- 👨‍💻 &nbsp; Frontend developer.
+
+# Let's connect? 🤝
+
+<p align="center">
+  <a href="https://github.com/manoharjha26">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/manoharjha26" alt="GitHub badge" />
+  </a>
+  <a href="https://x.com/manohar_26_">
+    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/manohar_26_" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/manohar26">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/manohar_dev_">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/manohar_dev_/" alt="LinkedIn" />
+  </a>
+</p>
+
+
+
+# Analytics ⚙️
+
+<p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false">    <img  alt="manoharjha26's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/manoharjha26?cardType=github&preferLogin=false" />  </a>
+</p>
+
+# Languages & Tools 🛠
+
+![reactjs](https://img.shields.io/badge/-reactjs-05122A?style=flat&color=blue)&nbsp;![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&color=green)&nbsp;![Expressjs](https://img.shields.io/badge/-expressjs-05122A?style=flat&color=white)&nbsp;![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&color=orange)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=green)&nbsp;![redux](https://img.shields.io/badge/-redux-05122A?style=flat&color=blue)&nbsp;
+![C++](https://img.shields.io/badge/-c++-05122A?style=flat&color=blue)&nbsp;
+<!--
+- 👨‍💻 &nbsp; I'm Currently Working on [MHF Solution](https://www.mhfsolution.com/).
 - 📫 &nbsp; [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar26/)](https://www.linkedin.com/in/manohar26/)
 [![Instagram: Manohar](https://img.shields.io/badge/-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manohar_dev_/)](https://www.instagram.com/manohar_dev_/)
 [![X: Manohar](https://img.shields.io/badge/-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08/)](https://x.com/Manohar_26_?t=I6VQ1UYPsHg1MQIscYviJA&s=08)
 
-<!--- 📫 &nbsp; Reach me on: [LinkedIn](https://www.linkedin.com/in/manohar26/), [Instagram](https://www.instagram.com/manohar_26_/).
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; C++ | Python | DSA 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Reactjs | Nodejs | Expressjs
-- 🛢 &nbsp; MySQL | mongodb | Git
-- 🔧 &nbsp; Visual Studio Code
-</br>
-
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharjha26&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/maboharjha26/github-readme-stats)
--->
-<!---
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/manohar26" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/manohar_26_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:aryabdwaj26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
 -->
 ⭐️ From [Manohar Jha](https://github.com/manoharjha26) 
