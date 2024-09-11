@@ -5,8 +5,8 @@ This is Manohar.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - :school: I'm [Manohar Jha](https://github.com/manoharjha26), have pursued MCA from <a href="https://cucet.cuchd.in/">chandigarh university</a>.
-- 🔭 I’m currently working on  **Frontend Development**.
-- 🌱 I’m currently Working in MHF Solution,**Reactjs Devloper**.
+<!-- - 🔭 I’m currently working on  **Frontend Development**.
+- 🌱 I’m currently Working in MHF Solution,**Reactjs Devloper**.-->
 - 💬 Ask me about anything.
 - 🌐 Visit my [porfolio website](https://portfolio-manohar.vercel.app/).
 
