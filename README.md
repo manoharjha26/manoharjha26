@@ -6,7 +6,7 @@ This is Manohar.
 
 - :school: I'm [Manohar Jha](https://github.com/manoharjha26), have pursued MCA from <a href="https://cucet.cuchd.in/">chandigarh university</a>.
 - 💬 Ask me about anything.
-- 🌐 Visit my [Clikc me](https://linktr.ee/manoharjha).
+- 🌐 About me [Clikc me](https://linktr.ee/manoharjha).
 
 
 
