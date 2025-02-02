@@ -15,4 +15,4 @@
 
 - 💬 Ask me about **Python, React, Node, Express, Sql, API**
   
-- 📫 How to reach me **manoharjha026@gmail.com**
+- 📫 How to reach me **aryabdwaj26@gmail.com**
