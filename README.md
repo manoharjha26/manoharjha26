@@ -1,7 +1,5 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=manoharjha26&color=1191BF)
 
-### Hi there 👋
-This is Manohar.
 <h3> 👨🏻‍💻 About Me </h3>
 <h1 align="left">Hi 👋, I am Manohar Jha</h1> 
 
@@ -16,5 +14,5 @@ This is Manohar.
 - 👨‍💻 All of my projects are available at [Manohar Jha Portfolio Website](https://themanohar.vercel.app/)
 
 - 💬 Ask me about **Python, React, Node, Express, Sql, API**
-- 
+  
 - 📫 How to reach me **manoharjha026@gmail.com**
