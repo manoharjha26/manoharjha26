@@ -7,12 +7,12 @@
 
 - 👨‍💻 Software Development Trainee | @ MHF Solution.
   
-- 🔭 I’m currently working on [Reactjs Devloper]()
-
-- 🌱 I’m currently learning **AI/ML and Cloud Engineering.**
+- 🔭 I’m currently working on [Full Stack Devloper]()
   
 - 👨‍💻 All of my projects are available at [Manohar Jha Portfolio Website](https://themanohar.vercel.app/)
 
-- 💬 Ask me about **Python, React, Node, Express, Sql, API**
+- 💬 Ask me about **Python, JavaScript, React, Node, Express, Sql, API**
   
-- 📫 How to reach me **aryabdwaj26@gmail.com**
+- 📫 How to reach me **manoharjha026@gmail.com**
+
+<!-- 🌱 I’m currently learning **AI/ML and Cloud Engineering.**
