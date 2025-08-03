@@ -5,7 +5,7 @@
 
 - 🏢 MCA student at chandigarh university.
 
-- 👨‍💻 Software Development Trainee | @ MHF Solution.
+- 👨‍💻 Software Development Trainee | @ Mojija E-Commerce.
   
 - 🔭 I’m currently working on [Full Stack Devloper]()
   
