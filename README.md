@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [Manohar Jha Portfolio Website](https://themanohar.vercel.app/)
 
-- 💬 Ask me about **Python, JavaScript, React, Node, Express, Sql, API**
+- 💬 Ask me about **C++, Python, JavaScript, React, Node, Express, Sql, API**
   
 - 📫 How to reach me **manoharjha026@gmail.com**
 
